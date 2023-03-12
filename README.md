@@ -6,7 +6,7 @@ will help you keep track of your spending and then as well as start helping you 
 
 ## UX Team Members
 
-* **[Joel Collazo](https://wzrd95.github.io/ux-portfolio-WZRD95/)** - Persona report 
+* **[Joel Collazo](https://usabilityengineering.github.io/ux-portfolio-WZRD95/)** - Persona report 
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
