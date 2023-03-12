@@ -1,6 +1,4 @@
 
-
-
 With all all the payments and bills that every one has we inted to make a website that 
 will help you keep track of your spending and then as well as start helping you save money
 
