@@ -14,7 +14,7 @@ will help you keep track of your spending and then as well as start helping you 
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](#) - Coming soon (phase II)!
+* [Wireframes](https://xd.adobe.com/view/9ccec208-2b3e-48eb-869c-eb08b77c9948-c99d/) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
