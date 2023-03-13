@@ -19,14 +19,14 @@ will help people keep track of your spending and help you save money.
 
 **Executive Summary**
 
-* Looked at competitors apps to get an idea of where to start to provide insight on what to do and not to do
-* Devised potential users and scenarios that would lead users to using our application 
-* Examined heuristics and how they were implemented in competitors and how they could be implemented into our own
-* Made some rough sketches and outlines of what the app could could look like for users
-* Programmed some buttons and other simple functions to work since we are in the early stages there are only a few functions 
-  1. to add a new debt to the application
+* Looked at competing apps to know what was missing and where to begin.
+* Examined heuristics and how they were implemented in competitors and how they could be implemented into our own.
+* Devised potential userbase and scenarios that would lead users to our application.
+* Produced low-fidelity models of what the app could look like for users.
+* Programmed buttons and other simple functions onto a prototype including the following:
+  1. Function to add a new debt to the application
   2. Added tiles for the user to see from the homepage this will display how much they owe and how much is left
-  3. Added a home button to the application
+  3. Added an account feature to separate allow for multiple users.
 
 
 [Full phase I report](phaseI/)
