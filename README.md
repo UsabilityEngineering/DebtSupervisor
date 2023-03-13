@@ -1,7 +1,7 @@
 # Debt Supervisor 
 
-With all the bills and transactions everyone has, we intend to make a website that 
-will help you keep track of your spending and help you save money.
+With all the bills and transactions people have to pay, we intend to make a website that 
+will help people keep track of your spending and help you save money.
 
 ## UX Team Members
 
