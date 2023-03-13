@@ -1,15 +1,14 @@
 # Debt Supervisor 
 
-With all all the payments and bills that every one has we inted to make a website that 
-will help you keep track of your spending and then as well as start helping you save money
+With all the bills and transactions everyone has, we intend to make a website that 
+will help you keep track of your spending and help you save money.
 
 ## UX Team Members
 
 * **[Joel Collazo](https://usabilityengineering.github.io/ux-portfolio-WZRD95/)** - Persona report - Sketches - Wireframes - Write-up 
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Austin Phanachone](https://github.com/aphanachone/UX-Journal)** - Persona Report -Sketches - Wireframes - Write-Up
 
 # User-Centered Design Artifacts
- 
  
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
