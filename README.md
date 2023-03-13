@@ -12,16 +12,17 @@ will help you keep track of your spending and help you save money.
  
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](https://xd.adobe.com/view/9ccec208-2b3e-48eb-869c-eb08b77c9948-c99d/) - Coming soon (phase II)!
+* [Wireframes](https://xd.adobe.com/view/9ccec208-2b3e-48eb-869c-eb08b77c9948-c99d/)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 **Executive Summary**
 
-* Looked at competitors apps to get an idea of where to start  this is to provide insight on what to do and not to do
-* Made some rough sketches and outlines of what the app could could look like from the users and it's very rough just a simple outline this does not reflect the final design
-
+* Looked at competitors apps to get an idea of where to start to provide insight on what to do and not to do
+* Devised potential users and scenarios that would lead users to using our application 
+* Examined heuristics and how they were implemented in competitors and how they could be implemented into our own
+* Made some rough sketches and outlines of what the app could could look like for users
 * Programmed some buttons and other simple functions to work since we are in the early stages there are only a few functions 
   1. to add a new debt to the application
   2. Added tiles for the user to see from the homepage this will display how much they owe and how much is left
