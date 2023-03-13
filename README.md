@@ -6,7 +6,7 @@ will help you keep track of your spending and help you save money.
 ## UX Team Members
 
 * **[Joel Collazo](https://usabilityengineering.github.io/ux-portfolio-WZRD95/)** - Persona report - Sketches - Wireframes - Write-up 
-* **[Austin Phanachone](https://github.com/aphanachone/UX-Journal)** - Persona Report -Sketches - Wireframes - Write-Up
+* **[Austin Phanachone](https://aphanachone.github.io/UX-Journal/)** - Persona Report -Sketches - Wireframes - Write-Up
 
 # User-Centered Design Artifacts
  
