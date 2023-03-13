@@ -2,30 +2,30 @@
 
 ## Introduction
 
-With there being a lot of people in debt. We as a team have decided to make an application for the users to keep track of the debt that they owe. Now we are aware that there are others on the market but we plan on making an open source web-based application for users. This is a well needed application because it helps users plan and save accordingly. There are a lot of things going on and everybody's day-to-day life so to have an application that helps you keep track of everything will help out greatly.
+With there being a lot of people in debt, we as a team have decided to make an application for users to keep track of what they owe. W are aware that there are similar applications on the market, but we plan on making an open source, web-based application for users. This is a much needed application because it helps users plan and save accordingly. In day-to-day life, keeping track of expenses and debt can be inconvenient. An application that keeps track of these things will help out greatly.
 
 ## Methods
 
-One of the methods that we use to discover new insights was downloading other popular apps from the app store. Since it was really easy to go to the app store type in debt applications we had a list to go through. We just chose from the top three applications that the store had to offer. From there we did an evaluation to see what we liked and didn't like. When we went through evaluating different points of the apps we were able to see what apps were better than others. Most importantly we were able to see what we wanted to do with our app. This really did give great insight into where we wanted to go with our debt application.
+One of the methods that we use to discover new insights was downloading other popular apps from the app store. There were many apps similar which were advertised to do similar things as our own. We chose from the top three applications that the store had to offer and proceeded to evaluate them against a list of user experience heuristics and design principles. We did an evaluation to see where and how they applied. We were able to see what apps were better than others. Most importantly, we were able to see what these apps lacked. This gave us much needed insight into where we wanted to go with our debt application.
 
-Another one of the things that we did in order to do some more research for the application was make some personas. With these personas we made small characters that we put them in different scenarios. With these personas and their scenarios we basically had a fictional person that we could think of to design our application for. Now with this persona we had small details about them. These details were stuff like their hobbies, age range and most importantly their goals for what they wanted to do in the app. When we had all of this together it helped illustrate a person that would possibly use her app.
+Another method we employed was the use of personas and scenarios. Personas were fictional people that we could thought of to design our application for. We included many small details, including their hobbies, age range, and, most importantly, their goals for what they wanted to do in the app. These goals were often presented in the form of a scenario. These scenarios were little anecdotes that could happen in real life. The main point of the scenario was to outline the personas goal. With all of this together, it helped illustrate a person that would possibly use our app.
 
-Finally the last thing that we did was do some hand-drawn sketches for the user interface. They are very simple pencil and paper outlines for what a rough outline of the application should look like. This outline was done with just a pencil for ease of use and quick fixing and redrawing. Accusing this method was very simple and easy to do and was a good way to outline and get a feel of what it could possibly look like. Then we also made multiple pages for what interactions might look like page by page. To give an idea of what different pages might look like inside the app.
+Finally, we created some hand-drawn sketches for the user interface. They are very simple pencil and paper outlines for what a rough outline of the application should look like. This outline was done with these materials for ease of use and quick fixing. We also made multiple pages for what interactions might look like page by page. 
 
 ## Findings
 
 With our first method we used heuristic evaluation
 - We saw that there are too many pages just to set up the app
-- There were many apps but none of them were simple to use
-- In some of the apps it was difficult to find the delete button
-- Some of the apps had too much clutter and data just in the user's face making it much too cluttered
+- There were many apps, but none of them were simple to use
+- In some apps, it was difficult to find simple items such as the delete button
+- Some apps had too much clutter and data just in the user's face making it overwhelming for first time users
 
 With our next method we started to think about the users needs
 - The need to be able to add not only debt but possible savings or future spendings
 - The idea of being able to quickly add new debts without having to put a lot of information in
 - Being able to access the app without internet
 
-Lastly we were able to get an idea for the user interface
+Lastly, we were able to get an idea for the user interface
 - Again make sure it is easy to see debts and simple to use
 - Make sure the add new debt button is easy to find and see
 - Make sure it is easy to find the delete to clear up any mistakes 
