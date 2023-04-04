@@ -7,10 +7,12 @@
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+Note: Methods focuses on cognitive walkthrough through scenarios.
 
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Note: What did they say about the wireframes?
 
 ## Conclusions
 
