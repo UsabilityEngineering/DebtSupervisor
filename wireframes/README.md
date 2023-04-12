@@ -1,3 +1,3 @@
 Test
 
-[click to go to ](HowTOadd/)
+[click to go to ](HowTOadd.md/)
