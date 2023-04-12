@@ -1,4 +1,5 @@
-* Here is how to see more information
+# Transactions
+Here is how to see more information
 
 * Now you are at the Home page
 ![Main Page](https://user-images.githubusercontent.com/123515727/231378211-51f9d9e4-ffc1-4fc7-9698-3260bb6c78e5.jpg)
