@@ -35,10 +35,12 @@ will help people keep track of your spending and help you save money.
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* We were able to make a prototype of the website this was a low-fidelity outline 
+* There was a cognitive walkthrough that another UX team as able do to and give us some feedback 
+  1. Add a delete delete button for the user to clear the entries 
+  2. Possible to add a way to use site offline 
+  3. The overall layout was really good 
+* We were able to add some of the features that were missing and finalize the design of the website
 
 [Full phase II report](phaseII/)
 
