@@ -2,7 +2,7 @@ Here is a prototype with some page by page where you can see how the site works
 
 [To add a Debt](HowTOadd.md/)
 
-[New Account](HowTOadd.md/)
+[New Account](NewACCOUNT.md/)
 
 [Login to a existing account ](HowTOadd.md/)
 
