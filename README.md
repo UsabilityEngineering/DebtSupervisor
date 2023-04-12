@@ -12,7 +12,7 @@ will help people keep track of your spending and help you save money.
  
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes3](wireframes/)
+* [Wireframes](wireframes/)
 * [Prototype](#) - Coming soon (phase III)!
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
