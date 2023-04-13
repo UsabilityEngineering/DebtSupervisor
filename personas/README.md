@@ -11,13 +11,12 @@ Johnson is a busy student. His weekdays are filled with classes and study sessio
 weekends, he likes to unwind from modern society and take hikes away from society. He lives
 alone in a single room dormitory.
 Johnson's busy schedule means that he doesn't have time to keep track of things outside his
-studies and hobbies. He is also a more outdoorsy person, so he is not very tech savvy and is
-often without internet.
+studies and hobbies. He is also a more outdoorsy person, but he does enjoy multiple streaming services.
 
 Goals:
 -  Have a simple, accessible interface
 -  Keep track of multiple debts
--  Work while offline/ without internet
+-  Keep track of subscriptions
 
 
 ![DAVE_007](https://user-images.githubusercontent.com/123515727/224526319-e452c63c-12a4-41d5-984c-3c17a7a6a281.jpg)
@@ -44,9 +43,8 @@ Goals
 
 - **John** has realized that he has taken unsubsidized student loans. The first payment is due
 during Summer Break, which is during his big 2-month long camping expedition. He will be
-without internet access so no application can give him a notification while he's away. This
-means he will need to keep track of his monthly dues so that he knows when to return to town
-so that he doesn't miss any payments.
+without internet access so he will need to know how much his subscriptions will cost him while he is away. This
+means he will need to keep track of his monthly dues so that he knows what to cancel to save his money while not sacrificing his shows.
 
 - **Dave** was able to get a big bonus from work and now is thinking about what to do with the
 money that he has just gotten in front of him so he is now tasked with taking his family out to a
