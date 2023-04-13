@@ -6,7 +6,7 @@ We are trying to help people track their debt and to see where their money goes.
 
 ## Methods
 
-One of the things we did in this sprint was a cognitive walkthrough with some input from other UX design teams. This was the way that we were able to get some outside help to see where we can improve the overall features of our website. We gave the other team access to one of our prototypes of our webpage. 
+One of the things we did in this sprint was a cognitive walkthrough with some input from other UX design teams. We were able to get some outside feedback to see where we could improve the overall features of our website. We gave the other team access to one of our prototypes of our webpage. 
 
 Our prototype was a wireframe, a really low effort outline that was made. This was just all in black and white to give an outline of what the website could look like. This was made with some interactivity for the user to click on buttons to then go and feel like a real webpage for the user to explore.
 
