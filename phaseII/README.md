@@ -6,26 +6,25 @@ We are trying to help people track their debt and to see where their money goes.
 
 ## Methods
 
-One of the things we did in this sprint was a cognitive walkthrough with some input from other UX design teams. We were able to get some outside feedback to see where we could improve the overall features of our website. We gave the other team access to one of our prototypes of our webpage. 
+One method that we employed in this sprint was a cognitive walkthrough with some input from other UX design teams. We were able to get some outside feedback to see where we could improve the overall design of our website. We gave the other team access to the prototype of our webpage. 
 
-Our prototype was a wireframe, a really low effort outline that was made. This was just all in black and white to give an outline of what the website could look like. This was made with some interactivity for the user to click on buttons to then go and feel like a real webpage for the user to explore.
+Our prototype was a wireframe, a low fidelity outline of our product. This was just all in black and white to give an outline of what the website could look like. This was made with some interactivity for the user to click on buttons to then go and feel like a real webpage for the user to explore.
 
-When you do a walkthrough it's as if you are the persona from the list that we made from phase one. When you have one picked out you then can use one of the scenarios to then act as if you are them. After that then you can begin your walkthrough. It will be as if you are that user. Make sure you take good notes to then go step by step to show what you did at every transaction with the prototype. Like for example when you got to the home page after making a new account then you write down what did the site show you and what were your ideas on what to do next. Then from there the user then keeps using the site till they can complete their original task that they set out to do from the beginning. All the step by step will help us later to see what they did and where there are problems on the site. After that then they can also give us additional comments for us to take a look at.
+When you perform a cognitive walkthrough, it's as if you are the persona from the list that we made from phase one. When you have one picked out you then can use one of the scenarios to then act as if you are them. After that then you can begin your walkthrough. It will be as if you are that user. Make sure you take good notes to then go step by step to show what you did at every transaction with the prototype. For example, when you got to the home page after making a new account then you write down what did the site show you and what were your ideas on what to do next. Then from there the user then keeps using the site till they can complete their original task that they set out to do from the beginning. All the step by step will help us later to see what they did and where there are problems on the site. After that then they can also give us additional comments for us to take a look at.
 
 ## Findings
 
-Here is what the users had to say about their walkthroughs when they used the prototype.
+Here is what the users had to say about their walkthroughs when they used our prototype.
 
+There were two users that were having problems deleting the entries in the debt web page. We then realized we forgot to add a method for the user to delete their debt entries in a quick and easy manner. The addition of a delete function would fix this issue in the next prototype. 
 
-There were two of the users that were having some problem deleting the entries in their debut web page. We then realized we forgot to have some way for the user to delete their debt entries in a quick and easy manner. From there we were able to realize that and fix that for the next prototype. 
-
-Then the next problem that we had from the walkthroughs was that there was no way for the user to save the data locally. Then we thought about this one since it is a web app. Although this is a great concern we came to the conclusion that it is a web app then we really can't have a way to save since it is a web app.
+Then the next problem that we had from the walkthroughs was that there was no way for the user to save the data locally. This was a concerning issue. In our initial personas, we had worked under the assumption that our product would be a mobile application. It has since moved onto a webpage. Although this is a great concern, we came to the conclusion that, because it is a web app, then we really can't have a way to save data for people to view while offline.
 
 ## Conclusions
 
-The biggest part of the feedback we got from the other team was that there was no way to delete the debt once you have added it. This is a very important part of the basic features that we totally forgot about. Now that they pointed it out to us we quickly took note and then added that to the items to fix. This was highlighted by two of the users that were doing a walkthrough of our prototype. 
+This sprint made us realize that we were missing features which users would expect from similar applications. The greatest feedback we received from the other teams was that there was no way to delete the debt once you have added it. This is a very important part of the basic features that we totally forgot about. Now that this was pointed out, we quickly took note and added that to the items to fix. This was highlighted by two of the users that were doing a walkthrough of our prototype. 
 
-Then when we were able to get some more feedback on the overall design and the coimments were for sure overall positive. The feedback was that the site was easy to use and has all the basic functions that every other site has as well. This was a relief since we did use a very simple and very common approach to layout. Since then we really did not have any problems with the user experience on the site so we decided to keep it the same. Using the logic that since there were no compl;ants or real problems on the site then we should be fine for that being the overall layout.
+Then when we were able to get some more feedback on the overall design and the comments were for sure overall positive. The feedback was that the site was easy to use and has all the basic functions that every other site has as well. This was a relief since we did use a very simple and very common approach to layout. Since then we really did not have any problems with the user experience on the site so we decided to keep it the same. Using the logic that since there were no compl;ants or real problems on the site then we should be fine for that being the overall layout.
 
 ## Caveats
 
