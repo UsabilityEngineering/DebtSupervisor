@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+For this project, we sought to create a website which would allow users to track their spending and debt in one convenient location. In previous sprints, we created the foundation for it's functions and prototypes for its layout. For this sprint, we focused on actual user testing. We prepared the proper forms to that we could legally test the UX prototype with people. We hoped to gather actual user feedback to see what we could improve on the website.
 
 ## Methods
 
