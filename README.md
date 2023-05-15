@@ -48,11 +48,6 @@ will help people keep track of your spending and help you save money.
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
 * We outlined a User Test Protocol and Informed Consent Form
 * We utilized these forms to begin actual user testing on other students
 * Testing had users run through scenarios to determine the site's ease of use
