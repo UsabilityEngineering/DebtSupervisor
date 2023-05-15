@@ -53,4 +53,14 @@ will help people keep track of your spending and help you save money.
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
+* We outlined a User Test Protocol and Informed Consent Form
+* We utilized these forms to begin actual user testing on other students
+* Testing had users run through scenarios to determine the site's ease of use
+* User feedback was overall positive:
+  1. Users enjoyed the simple design/functions
+  2. Users found the website easily to navigate
+* User recommended additions:
+  1. Add Customization and Personalization Options
+  2. Change color scheme and font
+
 [Full phase III report](phaseIII/)
